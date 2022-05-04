@@ -10,7 +10,7 @@
     text-transform: capitalize;
     transition: all .3s cubic-bezier(.38,1.15,.7,1.12);
     font-weight: normal;
-    font-family: cursive;
+    font-family:"Outfit", sans-serif;
 }
 
 *::selection{
